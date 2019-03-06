@@ -1,1 +1,1 @@
-Easy Git makes deploying to github very easy. Just insert your information into the config file and let EasyGit do the rest of the work for you
+# Easy Git makes deploying to github very easy. Just insert your information into the config file and let EasyGit do the rest of the work for you. Run the add.sh script in the place you want the repo to be formed and it will even initiallize the remote connection for you!
